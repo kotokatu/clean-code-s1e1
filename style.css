@@ -86,6 +86,10 @@ button {
   text-transform: uppercase;
 }
 
+.new-task {
+  padding: 20px 0;
+}
+
 .new-task__input,
 .task-list__input_text {
   margin: 0;
