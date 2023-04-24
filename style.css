@@ -112,7 +112,6 @@ button {
 /* New Task */
 .section__label {
   display: block;
-  margin: 0 0 20px;
 }
 
 .new-task__input {
